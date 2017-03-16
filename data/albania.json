@@ -1,0 +1,28 @@
+{"country": {
+    "name"                  : "albania",
+    "powerDistance"         : "90",
+    "individualism"         : "20",
+    "masculinity"           : "80",
+    "uncertaintyAvoidance"  : "70",
+    "longTermOrientation"   : "61",
+    "indulgence"            : "15",
+    "propertyRights"        : "54",
+    "governmentIntegrity"   : "39.7",
+    "judicialEffectiveness" : "28.5",
+    "governmentSpending"    : "72.5",
+    "taxBurden"             : "86.9",
+    "fiscalHealth"          : "51.5",
+    "businessFreedom"       : "79.3",
+    "laborFreedom"          : "50.7",
+    "monetaryFreedom"       : "81.4",
+    "tradeFreedom"          : "87.7",
+    "investmentFreedom"     : "70",
+    "financialFreedom"      : "70",
+    "population"            : "3038594",
+    "5YrGrowth"             : "1.9",
+    "gdpPerCapita"          : "13368",
+    "CPI"                   : "2",
+    "unemployment"          : "17.3",
+    "GINI"                  : "34.5"
+}}
+
